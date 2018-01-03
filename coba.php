@@ -1,5 +1,5 @@
 <?php
-    //include class controller
+    
     include "controller/controller.php";
     
     //variabel main merupakan objek baru yang di buat dari class controller
