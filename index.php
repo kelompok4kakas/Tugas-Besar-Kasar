@@ -1,7 +1,7 @@
 <?php
     //include class controller
     include "controller/controller.php";
-    //include
+    // include php
     //variabel main merupakan objek baru yang di buat dari class controller
     $main = new controller();
     
